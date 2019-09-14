@@ -7,4 +7,4 @@
 **Course:**               TINF16B   
 **Delivery:**             18.04.2019   
 
-The code can be found under src/auto-daten.ipynb
+The code can be found at src/auto-daten.ipynb
